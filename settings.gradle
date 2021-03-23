@@ -1,0 +1,2 @@
+rootProject.name='loginuser'
+include ':app'

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">loginuser</string>
+    <string name="masukkan_email">masukkan email</string>
+    <string name="masukkan_password">masukkan password</string>
+    <string name="masukkan_email">masukkan email</string>
+    <string name="masukkan_password">masukkan password</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun_punya_akun_silahkan_daftar_di_sini">Belum punya akun punya akun? Silahkan daftar di sini</string>
+    <string name="halo_sistem_informasi">Halo Sistem Informasi</string>
+</resources>

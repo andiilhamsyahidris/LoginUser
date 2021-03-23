@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647690846388",
+    "project_id": "loginuser-9a28d",
+    "storage_bucket": "loginuser-9a28d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647690846388:android:5a9ee0b3efe721eb1ed7e1",
+        "android_client_info": {
+          "package_name": "com.example.loginuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647690846388-l1ndh3bi7k8c87b1ea7m4h3b8sn6tobj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHoaXuGDbHhnNefNdpjRO9_r9gV_YsQ70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647690846388-l1ndh3bi7k8c87b1ea7m4h3b8sn6tobj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
